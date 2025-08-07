@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75DEB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+KEERTHISAA+S.;AI+%7C+Data+Science+Enthusiast;Prompt+Engineer+%7C+ML+Explorer;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75DEB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+KEERTHISAA+S.;GenAI+%7C+Enthusiast;Prompt+Engineer+%7C+ML+Explorer;Always+learning+something+new!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -68,16 +68,3 @@ Whether you're a **learner** or **explorer**, you’ll definitely find something
 </p>
 
 ---
-
-## ✨ Quote I Live By
-
-> "Committed to learning, driven to build — I turn ideas into action every day"
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthisaa&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=keerthisaa&theme=tokyonight" width="45%" />
-</p>
