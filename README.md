@@ -56,7 +56,8 @@ Whether you're a **learner** or **explorer**, you’ll definitely find something
 | 🖼️ **Image Captioning Tool** | AI-powered tool that describes uploaded images. |
 | 🧠 **Parkinson’s Checker** | Research-backed tool for early detection of Parkinson’s Disease. |
 | 🚌 **Bus Seat Booking Website** | Full-stack system for practicing front-end & back-end integration. |
-| 🚌 **A Smart Blended Learning Framework for Personalized Education** | AI-enabled School Management System designed to enhance personalized learning in schools. |
+| 🏫 **A Smart Blended Learning Framework for Personalized Education** | AI-enabled School Management System designed to enhance personalized learning in schools. |
+|🍲**Food Recipe Generator**|A Web-based Application that generates complete cooking recipes from food images.|
 
 ---
 
