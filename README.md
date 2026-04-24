@@ -19,7 +19,7 @@ Whether you're a **learner** or **explorer**, you’ll definitely find something
 ## 📖 About Me
 
 🎓 I’m a **Computer Science and Engineering student (2022–2026)** at **Bannari Amman Institute of Technology**  
-📊 Current CGPA: **8.3** (till 5th semester)  
+📊 Current CGPA: **8.2** (till 7th semester)  
 🧠 I love solving problems, building projects, and learning something new every day  
 🧪 Published a research paper on **Parkinson’s Disease Detection** using data science techniques  
 🏆 Finalist at **BITS HACK'23** for an **AI project focused on accessibility**
@@ -56,6 +56,7 @@ Whether you're a **learner** or **explorer**, you’ll definitely find something
 | 🖼️ **Image Captioning Tool** | AI-powered tool that describes uploaded images. |
 | 🧠 **Parkinson’s Checker** | Research-backed tool for early detection of Parkinson’s Disease. |
 | 🚌 **Bus Seat Booking Website** | Full-stack system for practicing front-end & back-end integration. |
+| 🚌 **A Smart Blended Learning Framework for Personalized Education** | AI-enabled School Management System designed to enhance personalized learning in schools. |
 
 ---
 
